@@ -1,0 +1,4 @@
+tags
+*.o
+physbuf_demo
+*.a
